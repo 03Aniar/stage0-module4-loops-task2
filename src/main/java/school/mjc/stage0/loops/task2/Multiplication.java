@@ -12,8 +12,6 @@ public class Multiplication {
             while (i != -multiplyByAndToInclusive + 1) {
                 System.out.println(i++ * multiplyByAndToInclusive);
             }
-        } else {
-            System.out.println("");
         }
 
     }
